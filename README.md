@@ -1,5 +1,4 @@
-
-# Yadorogi47shealchcareapplicationforios
+# HealchCare_Android
 
 Built with AndroidX Support
 
